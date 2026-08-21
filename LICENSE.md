@@ -7,9 +7,9 @@ The owner hereby grants to the user a non-exclusive, worldwide, royalty-free lic
 
 **2. CONDITIONS OF USE**
 The rights granted under this license are contingent upon the user’s adherence to the following requirements:
-(a) **Copyright Preservation:** The copyright notice must be maintained and preserved within a file named "Notice.copyright" included with the software.
-(b) **Endorsements:** Any requests for endorsement of the software or its creator must be submitted in writing to timmytheonlinegirl@hotmail.com. No endorsement is granted unless explicit written approval is provided by the owner.
-(c) **Documentation of Changes:** The user shall document every modification, update, or change made to the software within a file named "Changelog.txt".
+* (a) **Copyright Preservation:** The copyright notice must be maintained and preserved within a file named "Notice.copyright" included with the software.
+* (b) **Endorsements:** Any requests for endorsement of the software or its creator must be submitted in writing to timmytheonlinegirl@hotmail.com. No endorsement is granted unless explicit written approval is provided by the owner.
+* (c) **Documentation of Changes:** The user shall document every modification, update, or change made to the software within a file named "Changelog.txt".
 
 **3. COMPLIANCE AND TERMINATION**
 Any violation of the terms of this license constitutes a breach. In the event of a breach, the user shall have thirty (30) days from the date of notification by the owner to remedy such non-compliance ("Cure Period"). If the violation is not corrected within said 30-day period, all rights granted under this license and any associated permissions are immediately and automatically terminated.
