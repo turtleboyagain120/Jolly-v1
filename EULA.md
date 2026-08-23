@@ -273,4 +273,4 @@ You may not transfer or assign your license without our prior written consent:
 - This restriction includes transfers to third parties, affiliates, or subsidiaries
 - Exceptions apply only where permitted under applicable law (e.g., inheritance)
 
-By downloading, and/or visiting the work, you agree to all of the above.
+By downloading, opening and/or visiting the work, you agree to all of the above.
